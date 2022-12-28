@@ -1,10 +1,10 @@
-print ("Welcome to the quiz")
+print ("Hello agent, welcome to the game")
 a= input("Are you ready to play? ")
 score = 0
 if a != "yes":
     quit()
 else:
-    print("Let the game begin")
+    print("You want to play, let's play")
 
 answer=input("What is the role of reyna? ")
 if answer == "duelist":
