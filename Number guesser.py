@@ -28,15 +28,3 @@ for i in range(chance):
             
     if i==chance and guess != answer:
         print("Better luck next time")
-
-
-        
-            
-
-    
-
-
-
-
-
-
